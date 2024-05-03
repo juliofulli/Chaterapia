@@ -1,13 +1,15 @@
-##Chaterapia: Un Chatbot Psicológico
-Descripción
-Chaterapia es un modelo de chatbot diseñado para ofrecer apoyo psicológico, utilizando procesamiento de lenguaje natural y aprendizaje automático. Este proyecto fue desarrollado como parte de una tesis para evaluar la viabilidad de los chatbots de salud mental en el contexto español. Chaterapia busca proporcionar interacciones empáticas y efectivas, adaptándose a las necesidades culturales y lingüísticas de los usuarios.
+# Chaterapia: A Psychological Chatbot
 
-#Notebooks
-1. mod_train.ipynb
-Este notebook contiene el proceso de entrenamiento del modelo de Chaterapia. Explica cómo se prepararon los datos, la configuración del modelo y el entrenamiento paso a paso.
+## Description
+Chaterapia is a chatbot model designed to provide psychological support, utilizing natural language processing and machine learning. This project was developed as part of a thesis to assess the feasibility of mental health chatbots within the Spanish context. Chaterapia aims to provide empathetic and effective interactions, adapting to the cultural and linguistic needs of users.
 
-2. chat_validation.ipynb
-Aquí se muestra cómo se prueba el modelo Chaterapia. Este notebook valida la eficacia del chatbot mediante pruebas de conversación simuladas para asegurar que las respuestas sean apropiadas y útiles.
+## Notebooks
 
-3. evaluation.ipynb
-Este archivo evalúa los resultados obtenidos en chat_validation.ipynb. Incluye análisis detallados, gráficos y representaciones visuales de la efectividad del chatbot.
+### 1. `mod_train.ipynb`
+This notebook contains the training process for the Chaterapia model. It explains how the data were prepared, the model configuration, and the step-by-step training.
+
+### 2. `chat_validation.ipynb`
+This notebook demonstrates how the Chaterapia model is tested. It validates the effectiveness of the chatbot through simulated conversation tests to ensure that the responses are appropriate and helpful.
+
+### 3. `evaluation.ipynb`
+This file evaluates the results obtained in `chat_validation.ipynb`. It includes detailed analysis, graphs, and visual representations of the chatbot's effectiveness.

@@ -13,3 +13,9 @@ This notebook demonstrates how the Chaterapia model is tested. It validates the 
 
 ### 3. `evaluation.ipynb`
 This file evaluates the results obtained in `chat_validation.ipynb`. It includes detailed analysis, graphs, and visual representations of the chatbot's effectiveness.
+
+##Demo
+You can access a live demo of the Chaterapia chatbot here (https://huggingface.co/spaces/somosnlp/chaterapia_demo). This demo illustrates the chatbot's interaction capabilities in real-time.
+
+##Model
+The Chaterapia model is available on GitHub. You can view and download the model from its repository here (https://huggingface.co/Juliofc/chaterapi_model).
